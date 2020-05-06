@@ -1,2 +1,2 @@
 Test
-link to test [link](Test.md)
+link to test [link](../Test.md)
